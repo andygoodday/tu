@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>  
+<title>
+    Tiny Url
+</title>
+  <body> 
+      <form action="your_tiny_url" method="get">
+      <div>
+          input your url:<input type ="text"><button type="submit" formtarget="_blank">get your tinyurl</button> 
+      </div>
+      </form>
+      <div>
+          
+      </div>
+  </body>
+</html>
